@@ -1,0 +1,45 @@
+cấu trúc dữ liệu và giải thuật
+https://codelearn.io/sharing/lo-trinh-hoc-cau-truc-du-lieu-va-giai-thuat-phan-1
+https://www.tma.vn/Hoi-dap/Cam-nang-nghe-nghiep/Top-10-bi-kip-Cau-truc-du-lieu-giai-thuat/10027
+https://nguyenvanhieu.vn/ctdl-gt/
+https://www.programiz.com/dsa
+https://www.tutorialspoint.com/data_structures_algorithms/index.htm
+https://tek4.vn/cau-truc-du-lieu-va-giai-thuat-data-structure-and-algorithms-co-ban
+https://www.giaithuatlaptrinh.com/?tag=linked-list
+https://www.codechef.com/certification/data-structures-and-algorithms/prepare
+https://discuss.codechef.com/t/data-structure-tutorial-array/13551
+https://cafedev.vn/series-tu-hoc-cau-truc-du-lieu-va-giai-thuatthuat-toan-day-du-code-vi-du/
+https://expressmagazine.net/cornered-development/cc?page=6
+
+mô tả thuật toán 
+https://www.cs.usfca.edu/~galles/visualization/BST.html
+
+cấu trúc dữ liệu là tập hợp các kiểu dữ liệu được sắp xếp theo 1 trật tự cụ thể
+cấu trúc dữ liệu chia làm 2 loại:
+	+ cấu trúc dữ liệu tuyến tính
+		++ cấu trúc dữ liệu mảng(array)
+		++ cấu trúc dữ liệu ngăn xếp(stack)
+			+++ sắp xếp theo nguyên tắc LIFO(last in first out)
+		++ cấu trúc dữ liệu hàng đợi(queue)
+			+++ sắp xếp theo nguyên tắc FIFO(first in first out)
+		++ cấu trúc dữ liệu danh sách liên kết(linked-list)
+			+++ các phần tử dữ liệu được kết nối thông qua một loạt các nút
+				mỗi nút chứa data và địa chỉ nút tiếp theo
+	+ cấu trúc dữ liệu phi tuyến tính
+		++ cấu trúc dữ liệu đồ thị(graph)
+			+++ Spanning Tree and Minimum Spanning Tree
+			+++ Strongly Connected Components
+			+++ Adjacency Matrix(ma trận kề)
+			+++ Adjacency List(danh sách gần kề)
+		++ cấu trúc dữ liệu cây(tree)
+			+++ Binary Tree
+			+++ Binary Search Tree
+			+++ AVL Tree
+			+++ B-Tree
+			+++ B+ Tree
+			+++ Red-Black Tree
+			
+ Time to run code = number of instructions * time to execute each instruction
+ Thời gian chạy mã = ​​số lượng lệnh * thời gian để thực hiện mỗi lệnh
+ 
+ Thời gian chạy mã = ​​x / y (lớn hơn 16 phút)

@@ -1,0 +1,31 @@
+kiến thức nên học kỹ:
+	tieng anh
+	cau truc du lieu va giai thuat
+	co so du lieu
+
+các việc nên coi trọng:
+	Đi chậm mà chắc – Học lập trình từ cơ bản đến nâng cao
+	Đừng hài lòng với copy và paste code
+	Học đi đôi với hành
+	Học từ nhiều nguồn, nhiều tài liệu
+	Thường xuyên cập nhật kiến thức mới 
+	Chú trọng hơn tới tiếng Anh
+	Gỡ rối bằng cách sử dụng công cụ gỡ lỗi
+	Tự thách thức bản thân
+
+kiến thức quan trọng nên ôn lại:
+	nhập môn lập trình
+	Lập trình hướng đối tượng (OOP)
+	Cấu trúc dữ liệu và giải thuật
+	thiết kế cơ sở dữ liệu
+	cơ sở dữ liệu
+	Lập trình nâng cao (Kỹ Thuật Lập Trình): chia để trị, quy hoạch động, tham lam, bảng băm, quay lui
+
+
+front-end: HTML,CSS,JS cùng vài frameworks Reactjs, Angular,... 
+back-end: C#, PHP, JAVA, Python, RuBy với 1 số framework đi kèm như Nodejs, Django, Spring,... 
+kiến thức về database SQL nữa nhé. 
+fullstack (giỏi tất cả những điều trên luôn thì làm), 
+lập trình di động (học kỹ C++, JAVA, SQL, thiết kế UI/UX)
+
+

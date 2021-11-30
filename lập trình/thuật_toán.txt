@@ -1,0 +1,19 @@
+bubble sort
+selection sort
+insection sort
+quick sort 
+merge sort
+
+https://nguyenvanhieu.vn/tag/thuat-toan-sap-xep/
+https://topdev.vn/blog/10-thuat-toan-hang-dau-danh-cho-lap-trinh-vien/
+http://itplus-academy.edu.vn/6-thuat-toan-co-ban-cho-lap-trinh-vien-3236.html
+
+https://iviettech.vn/category/blog
+https://codelearn.io/sharing/hoc-thuat-toan-the-nao-cho-hieu-qua
+
+học thuật toán
+
+https://codelearn.io/sharing/hoc-thuat-toan-the-nao-cho-hieu-qua
+https://topdev.vn/blog/10-thuat-toan-hang-dau-danh-cho-lap-trinh-vien/
+https://iviettech.vn/blog/hoc_thuat_toan/10915-co-ban-ve-thuat-toan-giup-ban-hoc-thuat-toan-don-gian-hon.html
+https://codelearn.io/sharing/de-quy-hoat-dong-nhu-the-nao

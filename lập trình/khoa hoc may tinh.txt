@@ -1,0 +1,63 @@
+Giải tích
+Đại số tuyến tính
+Xác suất thống kê
+Toán rời rạc
+
+- Nhóm các môn cơ sở ngành
+
+ 	+ Nhập môn lập trình: Môn này các bạn được học các cú pháp, các khái niệm cơ bản về lập trình như vòng lặp, con trỏ, mảng,... Ngôn ngữ thường được các trường đại học Việt Nam sử dụng để dạy môn này là C/C++,Java
+
+ 	+ Cấu trúc dữ liệu và giải thuật: Trong môn này sẽ được học về các thuật toán như sắp xếp(sort), tìm kiếm(search),... cũng như các cấu trúc dữ liệu như danh sách liên kết(linked list), stack, queue, cây nhị phân tìm kiếm(BST),... và các khái niệm độ phức tạp về thời gian và bộ nhớ.
+
+ 	+ Lập trình hướng đối tượng: Lúc này sinh viên sẽ được học một kỹ thuật lập trình mới cho phép tạo ra các đối tượng trong code trừu tượng hóa các đối tượng thực tế trong cuộc sống.
+
+ 	+ Cơ sở dữ liệu: Môn học này sẽ giúp các bạn tiếp cận các hệ quản trị cơ sở dữ liệu phổ biến như Oracle, MongoDB, MySQL,...
+
+ 	+ Toán cho KHMT: giúp bạn có nền tảng về các kiến thức toán học, các thuật toán thông dụng mà trong các môn về trí tuệ nhân tạo,máy học rất cần
+
+ 	+ Phân tích và thiết kế thuật toán: cung cấp cho bạn các kiến thức về các thuật toán, cấu trúc dữ liệu  nâng cao, các cách tiếp cận và phương pháp giải đối với các bài toán trong tin học, các hàm về độ phức tạp thời gian và bộ nhớ
+
+ 	+ Ngoài ra còn một số môn cần nắm vững như Hệ điều hành, Mạng máy tính,..
+
+ 	+ Máy học: giúp bạn bước đầu với các mô hình và thuật toán máy học là tiền đề để học các môn về Deep Learning, Máy học nâng cao...
+
+ 	+ Nguyên lý lập trình: tìm hiểu các cách thức lập trình ,các phương pháp lập trình cũng như các quy củ về đặt tên biến,hàm và các cách tổ chức code hiệu quả nhất .
+
+Năm 3 và năm 4: Qua đến giai đoạn này thì ngành Khoa học máy tính có 3 định hướng nghiên cứu chuyên sâu là:
+
+	+ Công nghệ tri thức và máy học
+ 	+ Xử lý ngôn ngữ tự nhiên
+ 	+ Thị giác máy tính và đa phương tiện
+- Những kiến thức khi chọn lĩnh vực công nghệ tri thức và máy học
+ 	+ Xử lý dữ liệu
+	+ Các thuật toán máy học
+ 	+ Model máy học
+	+ Đánh giá độ hiệu quả của model,thuật toán
+
+- Những kiến thức khi chọn lĩnh vực Thị giác máy tính và đa phương tiện
+
+ 	+ Xử lý ảnh và video.
+
+	+ Đồ họa máy tính.
+
+	+ Thị giác máy tính.
+
+	+ Xử lý dữ liệu đa phương tiện.
+
+	+ Công nghệ đa phương tiện.
+
+	+ Máy học và nhận dạng.
+
+	+ Thực tại ảo, thực tại tăng cường.
+
+	+ Tổ chức và truy vấn thông tin đa phương tiện.
+
+- Những kiến thức khi chọn lĩnh vực Xử lý ngôn ngữ tự nhiên
+
+	+ xử lý các câu ,đoạn câu,đoạn văn...
+
+	+ phân tích cú pháp
+
+	+ các thuật toán chuyển đổi 
+
+	+ công nghệ dịch thuật

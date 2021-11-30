@@ -1,0 +1,42 @@
+nắm vững programming fundamentals
+	- nắm vững kiến thức nền
+		+ cấu trúc dữ liệu và giải thuật
+		+ operating system
+		+ compiler
+		+ networking
+	- interactive coding
+	- kết hợp nhiều nguồn tài liệu
+		+ book(clean code)
+		+ video(youtube channel, online course)
+		+ open source(cloud native computing foundation/ free software foundation)
+		+ medium post, stackoverflow, research paper
+	- không chú trọng vào 1 ngôn ngữ hay framework
+		+ chỉ cần nắm kiến thức nền
+		+ không nên chú trọng nhiều vào ngôn ngữ hay framework
+	- Explain/ Boil down knowledge into simple terms
+		+ explain những kiến thức bạn học 
+	- it's ok to understand high level concept, without deep knowledge
+		+ không cần hiểu quá sâu 1 vấn đề
+		+ học sâu hơn trong quá trình làm project(db sharing, replication / sql turing / performance turing, data sknew)
+	
+làm project
+	- tư duy backward
+		+ đi ngược vấn đề(bắt đầu từ vấn đề -> chia nhỏ vấn đề -> giải quyết -> coding)
+	- learn basic(learn basic -> start coding project -> develop on that)
+	- example 
+		+ áp dụng vào project
+		+ đọc code để lên trình
+	- đọc code trên open source project
+	- copy paste
+	
+học cách giải quyết 1 vấn đề như là 1 engineer
+	- error->fix bug
+	- tư duy logic
+	- search bug, tìm giải pháp, google search
+		+ tìm kiếm giải pháp như thế nào?
+		+ search từ resource nào?
+		+ connect giải pháp trên mạng với vấn đề của bản thân như thế nào?Apply?
+	- divide and conquer
+		+ phương pháp break down problem into small problem and giải quyết one by one sequentially or concurrently
+	- áp dụng pattern tương tự nhau, hoặc đối lập nhau
+	- engineer good practive
